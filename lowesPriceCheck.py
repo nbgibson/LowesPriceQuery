@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from lxml import html
 import requests
 import os
